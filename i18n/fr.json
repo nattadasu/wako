@@ -11,7 +11,8 @@
         "text1": "Suivez séries et film que vous regardez avec",
         "text2": "Etre averti des nouveaux épisodes",
         "text3.1": "Contrôlez votre media center préféré",
-        "text3.2": "avec la télécommande intégrée"
+        "text3.2": "avec la télécommande intégrée",
+        "text4": "Et bien d'autres fonctionnalités"
       },
       "slide3": {
         "title": "Qu'est-ce que Trakt.tv ?",
@@ -25,9 +26,9 @@
       "slide5": {
         "text": "Soyez au courant des prochains épisodes à regarder"
       },
-      "slide6": {
-        "text1.1": "Ajouter le film à votre \"watch list\"",
-        "text1.2": "marquer comme vue"
+      "slide-addon": {
+        "text1": "Dans wako, vous pouvez activer les add-ons qui ajouteront de nouvelles fonctionnalités adaptées à vos besoins.",
+        "text2": "Allez dans Paramètres > Add-ons pour gérer vos add-ons"
       },
       "slide7": {
         "text": "télécommande"

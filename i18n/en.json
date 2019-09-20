@@ -11,7 +11,8 @@
         "text1": "Track every TV show & movie you watch with",
         "text2": "Be notified on new episodes",
         "text3.1": "Control your favorite media player",
-        "text3.2": "with the built-in remote control"
+        "text3.2": "with the built-in remote control",
+        "text4": "And many more other features"
       },
       "slide3": {
         "title": "What is Trakt.tv?",
@@ -25,9 +26,9 @@
       "slide5": {
         "text": "Be aware of the next episodes to watch"
       },
-      "slide6": {
-        "text1.1": "Add the movie to your watch list",
-        "text1.2": "mark it as watched"
+      "slide-addon": {
+        "text1": "In wako you can enabled add-ons that will add new features that fit your needs.",
+        "text2": "Go to Settings > Add-ons to manage your add-ons"
       },
       "slide7": {
         "text": "remote control"
