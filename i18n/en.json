@@ -261,6 +261,10 @@
       "download": "Download",
       "offset": "Offset",
       "close": "Close"
+    },
+    "kodi-audio": {
+      "header": "Audio stream",
+      "select": "Audio"
     }
   },
   "shared": {
