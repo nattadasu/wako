@@ -27,7 +27,6 @@
         "text": "Be aware of the next episodes to watch"
       },
       "slide-addon": {
-        "text1": "In wako you can enabled add-ons that will add new features that fit your needs.",
         "text2": "Go to Settings > Add-ons to manage your add-ons"
       },
       "slide7": {
@@ -251,6 +250,10 @@
       "popularLists": "Popular Lists",
       "likes": "likes",
       "by": "by"
+    },
+    "install-addons": {
+      "title": "You don't have any add-ons installed",
+      "button": "Let's install some"
     }
   },
   "pop-over" : {
@@ -278,7 +281,11 @@
       "aired": "Aired",
       "airs": "Airs"
     },
-    "pasteMediaTitle": "Paste Video Title"
+    "pasteMediaTitle": "Paste Video Title",
+    "install-addons": {
+      "text1": "Do you know you can install add-ons inside wako?",
+      "text2": "By installing add-ons you will add new feature to wako that fit your needs"
+    }
   },
   "toasts": {
     "movie": {

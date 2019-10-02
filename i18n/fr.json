@@ -27,7 +27,6 @@
         "text": "Soyez au courant des prochains épisodes à regarder"
       },
       "slide-addon": {
-        "text1": "Dans wako, vous pouvez activer les add-ons qui ajouteront de nouvelles fonctionnalités adaptées à vos besoins.",
         "text2": "Allez dans Paramètres > Add-ons pour gérer vos add-ons"
       },
       "slide7": {
@@ -251,6 +250,24 @@
       "popularLists": "Listes Populaires",
       "likes": "likes",
       "by": "par"
+    },
+    "install-addons": {
+      "title": "Vous n'avez pas d'add-ons installé",
+      "button": "Ajouter des add-ons"
+    }
+  },
+  "pop-over" : {
+    "kodi-subtitles": {
+      "header": "Sous-titres",
+      "enable": "Activer les sous-titres",
+      "select": "Sous-titre",
+      "download": "Télécharger",
+      "offset": "Décalage",
+      "close": "Fermer"
+    },
+    "kodi-audio": {
+      "header": "Audio stream",
+      "select": "Audio"
     }
   },
   "shared": {
@@ -263,6 +280,11 @@
     "misc": {
       "aired": "Diffusé le",
       "airs": "Sort le"
+    },
+    "pasteMediaTitle": "Coller le titre",
+    "install-addons": {
+      "text1": "Savez-vous que vous pouvez installer des extensions à l'intérieur de wako ?",
+      "text2": "En installant des add-ons, vous ajouterez à wako de nouvelles fonctionnalités qui répondront à vos besoins."
     }
   },
   "toasts": {
@@ -309,7 +331,7 @@
       "cacheCleared": "Cache Supprimé"
     },
     "addons": {
-      "updated": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako needs to be restarted."
+      "updated": "Ces add-ons ont été mis à jour:<br>{{{updatedAddons}}<br><br><br>wako doit être redémarré."
     }
   },
   "alerts": {
