@@ -161,7 +161,9 @@
       "savedHosts": "Saved Hosts",
       "noHostsAdded": "No hosts have been added yet",
       "defaultHost": "Default Host",
-      "addHost": "ADD"
+      "addHost": "ADD",
+      "linkVolumeHardwareTitle": "Volume",
+      "linkVolumeHardware": "Link hardware volume button to kodi's volume"
     },
     "kodi-settings": {
       "title": "Kodi Configure Host",
