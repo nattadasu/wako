@@ -11,7 +11,8 @@
         "text1": "Tieni traccia di tutte le serie TV e i film che guardi",
         "text2": "Ricevi le notifiche per nuovi episodi",
         "text3.1": "Controlla il tuo media player preferito",
-        "text3.2": "con il telecomando integrato"
+        "text3.2": "con il telecomando integrato",
+        "text4": "E molte altre altre funzionalità"
       },
       "slide3": {
         "title": "Che cos'è Trakt.tv?",
@@ -26,8 +27,7 @@
         "text": "Tieniti aggiornato sui prossimi episodi da guardare"
       },
       "slide6": {
-        "text1.1": "Aggiungi un film alla tua watch list",
-        "text1.2": "contrassegnalo come visto"
+        "text2": "Vai su Impostazioni > Add-ons per gestire gli add-ons"
       },
       "slide7": {
         "text": "telecomando"
@@ -56,6 +56,7 @@
         },
         "search-list": {
           "explore": "Esplora",
+          "list": "Lista",
           "toWatch": "Da vedere",
           "watched": "Visti",
           "by": "di",
@@ -117,7 +118,7 @@
           "item": "Configura / Installa Add-ons"
         },
         "notification": {
-          "header": "notifiche",
+          "header": "Notifiche",
           "itemEnableTvShows": "Abilita le notifiche per le serie TV",
           "itemOnlyNewEpisodeOnUpToDateShows": "Ricevi una notifica solo per il prossimo episodio da vedere"
         },
@@ -233,9 +234,11 @@
     },
     "list-picker": {
       "title": "Scegli una lista",
+      "search": "Cerca una lista",
       "sort": {
         "label": "Ordina per",
         "options": {
+          "default": "Default",
           "rank": "Classifica",
           "recentlyAdded": "Aggiunto Recentemente",
           "releasedDate": "Data di uscita"
@@ -247,10 +250,29 @@
       "popularLists": "Liste Popolari",
       "likes": "mi piace",
       "by": "di"
+    },
+    "install-addons": {
+      "title": "Non hai alcun add-on installato",
+      "button": "Installiamone alcuni"
+    }
+  },
+  "pop-over": {
+    "kodi-subtitles": {
+      "header": "Sottotitoli",
+      "enable": "Abilita Sottotitoli",
+      "select": "Sottotitolo",
+      "download": "Scarica",
+      "offset": "Offset",
+      "close": "Chiudi"
+    },
+    "kodi-audio": {
+      "header": "Flusso Audio",
+      "select": "Audio"
     }
   },
   "shared": {
     "noResult": "Nessun risultato",
+    "filtersApplied": "Filtri applicati",
     "cancel": "Annulla",
     "sign-in": {
       "button": "Accedi o Registrati con Trakt"
@@ -258,6 +280,11 @@
     "misc": {
       "aired": "Trasmesso",
       "airs": "Da trasmettere"
+    },
+    "pasteMediaTitle": "Incolla Titolo Video",
+    "install-addons": {
+      "text1": "Sai che puoi installare add-ons all'interno di Wako?",
+      "text2": "Installando gli add-ons aggiungerai nuove funzionalità a wako adatte alle tue esigenze"
     }
   },
   "toasts": {
@@ -268,13 +295,18 @@
       "removedFromWatchlist": "Rimuovi {{movieTitle}} dalla tua Watch List",
       "addedToCollection": "Aggiungi {{movieTitle}} alla tua Raccolta",
       "removedFromCollection": "Rimuovi {{movieTitle}} dalla tua Raccolta",
+      "addedToUserList": "Aggiungi {{movieTitle}} alla tua lista",
+      "removedFromUserList": "Rimuovi {{movieTitle}} dalla tua lista",
       "noRandomMovieFound": "Nessun film trovato per i generi: {{genreList}}",
       "notFoundOnTrakt": "Film non trovato su Trakt"
     },
     "show": {
-      "removedFromWatchlist": "Aggiungi {{showTitle}} alla tua Watch List",
+      "addedToWatchlist": "Aggiungi {{showTitle}} alla tua Watch List",
+      "removedFromWatchlist": "Rimuovi {{showTitle}} dalla tua Watch List",
       "addedToCollection": "Aggiungi {{showTitle}} alla tua Collezione",
       "removedFromCollection": "Rimuovi {{showTitle}} dalla tua Collezione",
+      "addedToUserList": "Aggiungi {{showTitle}} alla tua lista",
+      "removedFromUserList": "Rimuovi {{showTitle}} dalla tua lista",
       "notFoundOnTrakt": "Serie non trovata su Trakt"
     },
     "season": {
@@ -322,5 +354,13 @@
     "shows": {
       "newEpisode": "Nuovo Episodio: {{showTitle}} {{episodeCode}}"
     }
+  },
+  "actionSheets": {
+    "addToWatchList": "Aggiungi alla tua Watch List",
+    "removeFromWatchList": "Rimuovi dalla tua Watch List",
+    "addToCollection": "Aggiungi alla tua Collezione",
+    "removeFromCollection": "Rimuovi dalla tua Collezione",
+    "addToList": "Aggiungi a {{listName}}",
+    "removeFromList": "Rimuovi da {{listName}}"
   }
 }
