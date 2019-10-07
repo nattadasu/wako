@@ -163,7 +163,7 @@
       "defaultHost": "Default Host",
       "addHost": "ADD",
       "linkVolumeHardwareTitle": "Volume",
-      "linkVolumeHardware": "Link hardware volume button to kodi's volume"
+      "linkVolumeHardware": "Link hardware volume buttons to kodi's volume when playing"
     },
     "kodi-settings": {
       "title": "Kodi Configure Host",

@@ -161,7 +161,9 @@
       "savedHosts": "Hôtes enregistrés",
       "noHostsAdded": "Aucun hôte n'a encore été ajouté",
       "defaultHost": "Hôte par défaut",
-      "addHost": "Ajouter"
+      "addHost": "Ajouter",
+      "linkVolumeHardwareTitle": "Volume",
+      "linkVolumeHardware": "Lier les boutons de volume du téléphone au volume de Kodi lors de la lecture"
     },
     "kodi-settings": {
       "title": "Configuration de l'hôte Kodi",
