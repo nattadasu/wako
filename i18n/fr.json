@@ -119,6 +119,7 @@
         },
         "notification": {
           "header": "Notifications",
+          "notificationNotGranted": "Les notifications pour wako sont actuellement désactivées. Si vous souhaitez recevoir des notifications, veuillez les activer dans les Paramètres de votre téléphone.",
           "itemEnableTvShows": "Activer les notifications des séries TV",
           "itemOnlyNewEpisodeOnUpToDateShows": "Etre averti uniquement pour mes prochains épisodes à regarder"
         },

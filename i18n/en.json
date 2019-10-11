@@ -119,6 +119,7 @@
         },
         "notification": {
           "header": "Notifications",
+          "notificationNotGranted": "Notifications for wako are currently disabled. If you'd like to receive notifications please enable them in the Settings app",
           "itemEnableTvShows": "Enable TV Shows notifications",
           "itemOnlyNewEpisodeOnUpToDateShows": "Be only notified for my next up to watch episodes"
         },
