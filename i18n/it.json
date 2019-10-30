@@ -161,7 +161,9 @@
       "savedHosts": "Host Salvati",
       "noHostsAdded": "Nessun host è stato ancora aggiunto",
       "defaultHost": "Host Predefinito",
-      "addHost": "AGGIUNGI"
+      "addHost": "AGGIUNGI",
+      "linkVolumeHardwareTitle": "Volume",
+      "linkVolumeHardware": "Collega pulsanti hardware del volume al volume di Kodi durante la riproduzione"
     },
     "kodi-settings": {
       "title": "Configura Host Kodi",
