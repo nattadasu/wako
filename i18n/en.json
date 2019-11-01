@@ -41,7 +41,11 @@
       "hi": "Hi",
       "upNextToWatch": "Up Next To Watch",
       "retry": "Retry",
-      "upToDate": "Nothing to watch, you're up to date :)"
+      "upToDate": "Nothing to watch, you're up to date :)",
+      "segment": {
+        "upNext": "Up Next",
+        "resume": "Resume"
+      }
     },
     "login": {
       "message": "Sign in or Sign up with Trakt to view your Movies/TV Shows"
@@ -135,6 +139,7 @@
         },
         "application": {
           "header": "Application",
+          "darkMode": "Dark Mode",
           "lang": "Language",
           "review": "Review This App",
           "share": "Share This App",
