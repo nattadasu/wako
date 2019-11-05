@@ -357,6 +357,9 @@
     "addons": {
       "customManifestUrl": "Custom add-on URL",
       "enterManifestUrl": "Enter the manifest URL"
+    },
+    "show": {
+      "remove": "Remove this show?"
     }
   },
   "notifications": {

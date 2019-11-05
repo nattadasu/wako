@@ -351,6 +351,9 @@
     "addons": {
       "customManifestUrl": "Ajouter un add-on personnel",
       "enterManifestUrl": "Entrer l'url du manifest"
+    },
+    "show": {
+      "remove": "Supprimer la série ?"
     }
   },
   "notifications": {
