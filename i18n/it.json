@@ -41,7 +41,11 @@
       "hi": "Ciao",
       "upNextToWatch": "Prossimo Da Vedere",
       "retry": "Riprova",
-      "upToDate": "Niente da guardare, sei aggiornato :)"
+      "upToDate": "Niente da guardare, sei aggiornato :)",
+      "segment": {
+        "upNext": "Prossimo",
+        "resume": "Riprendi"
+      }
     },
     "login": {
       "message": "Accedi o Registrati con Trakt per visualizzare i tuoi film/serie TV"
@@ -119,6 +123,7 @@
         },
         "notification": {
           "header": "Notifiche",
+          "notificationNotGranted": "Le notifiche per wako sono attualmente disabilitate. Se desideri ricevere notifiche, abilitale nell'app Impostazioni",
           "itemEnableTvShows": "Abilita le notifiche per le serie TV",
           "itemOnlyNewEpisodeOnUpToDateShows": "Ricevi una notifica solo per il prossimo episodio da vedere"
         },
@@ -134,6 +139,7 @@
         },
         "application": {
           "header": "Applicazione",
+          "darkMode": "Modalità Scura",
           "lang": "Lingua",
           "review": "Valuta Questa App",
           "share": "Condividi Questa App",
@@ -217,6 +223,7 @@
     "app-contribution": {
       "title": "Contributo",
       "text": "wako è gratuito e non contiene pubblicità. <br />Ci vuole molto lavoro per rendere l'app sempre migliore. <br />Se ti piace davvero wako, puoi contribuire iscrivendoti al seguente prodotto <br /><br />Grazie.",
+      "text2": "PS: se hai contribuito ma vedi questo, per favore contattami su discord o su wakoapplication@gmail.com per risolvere questo problema",
       "iosTextSubscriptionMonthlyByProduct": "Un acquistao di {{ productPrice }}/al mese verrà applicato al tuo account iTunes alla conferma.",
       "iosTextSubscriptionYearlyByProduct": "Un acquistao di {{ productPrice }}/all'anno verrà applicato al tuo account iTunes alla conferma.",
       "iosTextSubscriptionGeneral": "Gli abbonamenti si rinnoveranno automaticamente a meno che non vengano annullati entro 24 ore prima della fine del periodo corrente. Puoi annullare in qualsiasi momento dalle impostazioni del tuo account iTunes. Qualsiasi parte inutilizzata di una prova gratuita verrà persa se acquisti un abbonamento. Per ulteriori informazioni, consultare i nostri Termini & Condizioni e Informativa sulla Privacy.",
