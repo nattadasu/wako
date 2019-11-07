@@ -265,7 +265,7 @@
       "button": "Let's install some"
     }
   },
-  "pop-over" : {
+  "pop-over": {
     "kodi-subtitles": {
       "header": "Subtitles",
       "enable": "Enable Subtitles",
@@ -340,7 +340,9 @@
       "cacheCleared": "Cache cleared"
     },
     "addons": {
-      "updated": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako needs to be restarted."
+      "updated": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako needs to be restarted.",
+      "updatedWithRestart": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako is going to restart.",
+      "upToDate": "Add-ons are up to date"
     }
   },
   "alerts": {
