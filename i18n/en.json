@@ -230,7 +230,7 @@
       "consumableHeader": "One time Purchase",
       "otherSubscriptionHeader": "Other subscriptions",
       "manualSubscription": "Manual Contribution",
-      "adsSubscription": " Get 24h contribution be watching 2 rewards ads"
+      "adsSubscription": "Get contribution for the next 24h by watching 2 rewards ads"
     },
     "app-outdated": {
       "text": "Your app is outdated, you have to update it to continue"
