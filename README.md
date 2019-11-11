@@ -1,5 +1,3 @@
-[![Join the chat on discord](https://img.shields.io/badge/join%20the%20chat-on%20discord-0088cc.svg)](https://discord.gg/Xf7Qnp3)
-
 Official website: https://wako.app
 
 Available on:
