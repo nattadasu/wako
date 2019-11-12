@@ -5,6 +5,10 @@ Available on:
 - [Apple Store](https://itunes.apple.com/fr/app/wako-tv/id1456393880?l=en&mt=8)
 
 
+## Add-ons issue
+If you have any issue with an add-on, create an issue on their repository, list is here: https://github.com/wako-app
+wako doesn't support un-official add-ons, see with their developer for support. 
+
 ## Do you want to contribute by translating your app in your own language?
 
 wako uses translatation files located here https://github.com/wako-app/wako/tree/master/i18n to display the app in the user choosen lang. 
