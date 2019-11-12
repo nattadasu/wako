@@ -334,8 +334,8 @@
       "cacheCleared": "Cache Supprimé"
     },
     "addons": {
-      "updated": "Ces add-ons ont été mis à jour:<br>{{{updatedAddons}}<br><br><br>wako doit être redémarré.",
-      "updatedWithRestart": "Ces add-ons ont été mis à jour:<br>{{{updatedAddons}}<br><br><br>wako va redémarrer.",
+      "updated": "Ces add-ons ont été mis à jour:<br>{{updatedAddons}}<br><br><br>wako doit être redémarré.",
+      "updatedWithRestart": "Ces add-ons ont été mis à jour:<br>{{updatedAddons}}<br><br><br>wako va redémarrer.",
       "upToDate": "Les Add-ons sont à jour"
     }
   },
