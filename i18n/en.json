@@ -345,6 +345,10 @@
       "updated": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako needs to be restarted.",
       "updatedWithRestart": "These add-ons have been updated:<br>{{updatedAddons}}<br><br>wako is going to restart.",
       "upToDate": "Add-ons are up to date"
+    },
+    "kodi":{
+      "hostUnreachable": "Ouch, your kodi host {{hostName}} is unreachable",
+      "noHost": "No host set for kodi"
     }
   },
   "alerts": {
