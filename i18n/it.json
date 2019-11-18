@@ -225,9 +225,12 @@
       "text1": "Se ti piace davvero wako, puoi contribuire iscrivendoti al seguente prodotto. Questo rimuoverà gli annunci<br /> <br />Grazie.",
       "iosTextSubscriptionMonthlyByProduct": "Un acquistao di {{ productPrice }}/al mese verrà applicato al tuo account iTunes alla conferma.",
       "iosTextSubscriptionYearlyByProduct": "Un acquistao di {{ productPrice }}/all'anno verrà applicato al tuo account iTunes alla conferma.",
-      "iosTextSubscriptionGeneral": "Gli abbonamenti si rinnoveranno automaticamente a meno che non vengano annullati entro 24 ore prima della fine del periodo corrente. Puoi annullare in qualsiasi momento dalle impostazioni del tuo account iTunes. Qualsiasi parte inutilizzata di una prova gratuita verrà persa se acquisti un abbonamento. Per ulteriori informazioni, consultare i nostri Termini & Condizioni e Informativa sulla Privacy.",
+      "iosTextSubscriptionGeneral": "Gli abbonamenti si rinnoveranno automaticamente a meno che non vengano annullati almeno 24 ore prima della fine del periodo corrente. Puoi annullare in qualsiasi momento dalle impostazioni del tuo account iTunes. Qualsiasi parte inutilizzata di una prova gratuita verrà persa se acquisti un abbonamento. Per ulteriori informazioni, consultare i nostri Termini & Condizioni e Informativa sulla Privacy.",
       "subscriptionHeader": "Abbonamenti con rinnovo automatico",
-      "consumableHeader": "Acquista una volta"
+      "consumableHeader": "Acquista una volta",
+      "otherSubscriptionHeader": "Altri abbonamenti",
+      "manualSubscription": "Contributo Manuale",
+      "adsSubscription": "Ottieni un contributo per le prossime 24 ore come premio guardando 2 annunci"
     },
     "app-outdated": {
       "text": "La tua app è obsoleta, devi aggiornarla per continuare"
@@ -342,6 +345,10 @@
       "updated": "Questi add-ons sono stati aggiornati:<br>{{updatedAddons}}<br><br>wako deve essere riavviato.",
       "updatedWithRestart": "Questi add-ons sono stati aggiornati:<br>{{updatedAddons}}<br><br>wako sta per essere riavviato.",
       "upToDate": "Gli add-ons sono aggiornati"
+    },
+    "kodi":{
+      "hostUnreachable": "Ahia! Il tuo host Kodi {{hostName}} non è raggiungibile",
+      "noHost": "Nessun host impostato per Kodi"
     }
   },
   "alerts": {
