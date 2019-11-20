@@ -198,7 +198,7 @@
         "header": "Settings",
         "item": "Unknown sources",
         "third-party": "Add a third-party add-on",
-        "alert": "Third party add-ons will be given access to your wako data stored on this device. By allowing, you agree that you solely responsible for any loss of data and unwanted behaviour to your app. Please be aware that third party add-ons are neither developed nor endorsed by wako and that wako cannot be held responsible about what these add-ons do."
+        "alert": "Third party add-ons will be given access to your data stored on wako. By allowing, you agree that you solely responsible for any loss of data and unwanted behaviour to your app. Please be aware that third party add-ons are neither developed nor endorsed by wako and that wako cannot be held responsible about what these add-ons do."
       }
     },
     "addon": {
