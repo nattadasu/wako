@@ -193,6 +193,12 @@
       },
       "list-available": {
         "header": "Add-ons Disponibili"
+      },
+      "list-unknown-sources": {
+        "header": "Impostazioni",
+        "item": "Fonti sconosciute",
+        "third-party": "Aggiungi add-on di terze parti",
+        "alert": "Gli add-on di terze parti avranno accesso ai tuoi dati memorizzati su wako. Consentendo, l'utente accetta di essere l'unico responsabile per qualsiasi perdita di dati e comportamento indesiderato della propria app. Si prega di essere consapevoli del fatto che gli add-on di terze parti non sono né sviluppati né supportati da wako e che wako non può essere ritenuto responsabile di ciò che fanno questi add-on."
       }
     },
     "addon": {
@@ -335,7 +341,7 @@
       "traktApiIssue1": "API Trakt - Impossibile caricare la risorsa, riprovare più tardi (codice errore {{errorStatus}})",
       "traktApiServerOverloaded": "API Trakt - Il server è sovraccarico. Riprova tra 30 secondi",
       "traktNotConnectedAnyMore": "API Trakt - Non sei più connesso a Trakt, ti preghiamo di riconnetterti",
-      "newVersionAvailable": "È disponibile una nuova versione di wako",
+      "newVersionAvailable": "Una nuova versione di wako è disponibile sullo store",
       "updateInstalled": "wako è stato aggiornato. Riavvia l'app per goderti l'aggiornamento"
     },
     "settings": {
@@ -363,7 +369,7 @@
       }
     },
     "addons": {
-      "customManifestUrl": "URL add-on personalizato",
+      "customManifestUrl": "URL add-on di terze parti",
       "enterManifestUrl": "Inserisci l'URL manifest"
     },
     "show": {
