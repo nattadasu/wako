@@ -377,6 +377,9 @@
     },
     "show": {
       "remove": "Remove this show?"
+    },
+    "kodi": {
+      "openUrl": "Open URL"
     }
   },
   "notifications": {

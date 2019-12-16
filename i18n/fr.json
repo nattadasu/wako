@@ -366,6 +366,9 @@
     },
     "show": {
       "remove": "Supprimer la série ?"
+    },
+    "kodi": {
+      "openUrl": "Ouvrir l'URL"
     }
   },
   "notifications": {
