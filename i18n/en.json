@@ -237,8 +237,8 @@
       "consumableHeader": "One time Purchase",
       "otherSubscriptionHeader": "Other subscriptions",
       "manualSubscription": "Manual Contribution",
-      "adsSubscription": "Get contribution for the next 24h by watching 2 rewards ads",
-      "adsTempSubscription": "Get contribution for the next 6h by watching a reward ads",
+      "ads24hRemoval": "Get rid of full screen ads for the next 24h by watching 2 rewards ads",
+      "ads6hRemoval": "Get rid of full screen ads for the next 6h by watching 1 reward ads",
       "otherContribution": "Other"
     },
     "app-outdated": {
