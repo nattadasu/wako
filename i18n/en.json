@@ -358,6 +358,9 @@
     "kodi": {
       "hostUnreachable": "Ouch, your kodi host {{hostName}} is unreachable",
       "noHost": "No host set for kodi"
+    },
+    "ads": {
+      "block": "Ouch it looks like you have an ad blocker. Ads help wako to stay free, if you don't want ads you can contribute to wako (wako > settings > contribute)"
     }
   },
   "alerts": {
