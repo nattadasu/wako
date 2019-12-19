@@ -56,7 +56,9 @@
           "imdbRating": "IMDb Rating:",
           "viewOnIMDb": "View on IMDb",
           "overview": "Overview",
-          "related": "More like this"
+          "related": "More like this",
+          "rating": "Rating",
+          "genres": "Genre"
         },
         "search-list": {
           "explore": "Explore",

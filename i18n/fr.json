@@ -52,7 +52,9 @@
           "imdbRating": "Note IMDb :",
           "viewOnIMDb": "Voir sur IMDb",
           "overview": "Résumé",
-          "related": "Similaire"
+          "related": "Similaire",
+          "rating": "Note",
+          "genres": "Genre"
         },
         "search-list": {
           "explore": "Explorer",
@@ -344,7 +346,7 @@
       "updatedWithRestart": "Ces add-ons ont été mis à jour:<br>{{updatedAddons}}<br><br><br>wako va redémarrer.",
       "upToDate": "Les Add-ons sont à jour"
     },
-    "kodi":{
+    "kodi": {
       "hostUnreachable": "Aïe, votre hôte kodi {{hostName}} est injoignable",
       "noHost": "Aucun hôte définit pour kodi"
     }
