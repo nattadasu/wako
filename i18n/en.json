@@ -56,9 +56,18 @@
           "imdbRating": "IMDb Rating:",
           "viewOnIMDb": "View on IMDb",
           "overview": "Overview",
+          "cast": "Cast",
+          "fullCast": "Full Cast & Crew",
+          "network": "Network",
           "related": "More like this",
+          "release": "Release",
+          "runtime": "Runtime",
+          "status": "Status",
+          "certification": "Certification",
+          "originalTitle": "Original Title",
+          "originalLanguage": "Original Language",
           "rating": "Rating",
-          "genres": "Genre"
+          "genres": "Genres"
         },
         "search-list": {
           "explore": "Explore",

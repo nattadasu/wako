@@ -52,9 +52,18 @@
           "imdbRating": "Note IMDb :",
           "viewOnIMDb": "Voir sur IMDb",
           "overview": "Résumé",
+          "cast": "Casting",
+          "fullCast": "Casting & Équipe complet",
+          "network": "Diffuseur",
           "related": "Similaire",
+          "release": "Date",
+          "runtime": "Durée",
+          "status": "Statut",
+          "certification": "Certification",
+          "originalTitle": "Titre original",
+          "originalLanguage": "Langue originale",
           "rating": "Note",
-          "genres": "Genre"
+          "genres": "Genres"
         },
         "search-list": {
           "explore": "Explorer",
