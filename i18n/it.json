@@ -56,7 +56,18 @@
           "imdbRating": "Punteggio IMDb:",
           "viewOnIMDb": "Visualizza su IMDb",
           "overview": "Panoramica",
-          "related": "Contenuti simili"
+          "cast": "Cast",
+          "fullCast": "Cast Completo e Personaggi",
+          "network": "Network",
+          "related": "Contenuti simili",
+          "release": "Pubblicazione",
+          "runtime": "Durata",
+          "status": "Status",
+          "certification": "Certificazione",
+          "originalTitle": "Titolo Originale",
+          "originalLanguage": "Lingua Originale",
+          "rating": "Valutazione",
+          "genres": "Generi"
         },
         "search-list": {
           "explore": "Esplora",
@@ -237,8 +248,8 @@
       "consumableHeader": "Acquista una volta",
       "otherSubscriptionHeader": "Altri abbonamenti",
       "manualSubscription": "Contributo Manuale",
-      "adsSubscription": "Ottieni un contributo per le prossime 24 ore come premio guardando 2 annunci",
-      "adsTempSubscription": "Ottieni un contributo per le prossime 6 ore come premio guardando 1 annuncio",
+      "ads24hRemoval": "Sbarazzati degli annunci a schermo intero per le prossime 24 ore guardando 2 annunci premio",
+      "ads6hRemoval": "Sbarazzati degli annunci a schermo intero per le prossime 6 ore guardando 1 annuncio premio",
       "otherContribution": "Altro"
     },
     "app-outdated": {
@@ -358,6 +369,9 @@
     "kodi": {
       "hostUnreachable": "Ahia! Il tuo host Kodi {{hostName}} non è raggiungibile",
       "noHost": "Nessun host impostato per Kodi"
+    },
+    "ads": {
+      "block": "Ahia! Sembra che tu abbia un ad-block. Gli annunci aiutano wako a rimanere gratuito, se non vuoi annunci puoi contribuire a wako (wako > impostazioni > contribuisci)"
     }
   },
   "alerts": {
