@@ -219,7 +219,7 @@
       "iosTextSubscriptionYearlyByProduct": "Una compra de {{productPrice}} / año se aplicará a su cuenta de iTunes luego de la confirmación.",
       "iosTextSubscriptionGeneral": "Las suscripciones se renovarán automáticamente a menos que se cancelen dentro de las 24 horas antes del final del período actual. Puede cancelar en cualquier momento con la configuración de su cuenta de iTunes. Cualquier parte no utilizada de una prueba gratuita se perderá si compra una suscripción. Para obtener más información, consulte nuestros Términos y condiciones y nuestra Política de privacidad.",
       "subscriptionHeader": "Suscripciones auto renovables",
-      "consumableHeader": "Compra única"
+      "consumableHeader": "Contribución de por vida"
     },
     "app-outdated": {
       "text": "Su aplicación está desactualizada, debe actualizarla para continuar"

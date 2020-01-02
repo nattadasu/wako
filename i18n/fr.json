@@ -239,7 +239,7 @@
       "iosTextSubscriptionYearlyByProduct": "Un achat {{ productPrice }}/an sera appliqué à votre compte iTunes dès confirmation.",
       "iosTextSubscriptionGeneral": "Les abonnements se renouvelleront automatiquement à moins qu'ils ne soient annulés dans les 24 heures précédant la fin de la période en cours. Vous pouvez annuler à tout moment avec les paramètres de votre compte iTunes. Toute portion inutilisée d'un essai gratuit sera perdue si vous achetez un abonnement. Pour plus d'informations, consultez nos Conditions générales et notre Politique de confidentialité.",
       "subscriptionHeader": "Abonnements Auto Renouvelable",
-      "consumableHeader": "Achat unique"
+      "consumableHeader": "Contribution à vie"
     },
     "app-outdated": {
       "text": "Votre application n'est plus à jour. Veuillez la mettre à jour pour continuer à l'utiliser"
