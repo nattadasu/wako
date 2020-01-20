@@ -234,7 +234,9 @@
   "modals": {
     "app-contribution": {
       "title": "Contribution",
-      "text": "wako est gratuit et ne contient aucune publicité.<br />Cela prend beaucoup de temps pour rendre l'appliction de mieux en mieux.<br />Si vous aimez vraiment wako, vous pouvez y contribuer en vous abonnant au produit ci-dessous <br /><br />Merci.",
+      "explain": "Si vous aimez vraiment le wako, vous pouvez y contribuer en choisissant un produit ci-dessous. Cela permettra de supprimer les publicités. La contribution est liée à votre compte trakt.",
+      "explainTierText1": "Le produit \"Tier\" est une contribution à vie",
+      "explainTierText2": "Il existe différents produits Tier, ils ont tous le même effet, seul le prix change, il vous permet de choisir ce que vous pensez que wako vaut",
       "iosTextSubscriptionMonthlyByProduct": "Un achat {{ productPrice }}/mois sera appliqué à votre compte iTunes dès confirmation.",
       "iosTextSubscriptionYearlyByProduct": "Un achat {{ productPrice }}/an sera appliqué à votre compte iTunes dès confirmation.",
       "iosTextSubscriptionGeneral": "Les abonnements se renouvelleront automatiquement à moins qu'ils ne soient annulés dans les 24 heures précédant la fin de la période en cours. Vous pouvez annuler à tout moment avec les paramètres de votre compte iTunes. Toute portion inutilisée d'un essai gratuit sera perdue si vous achetez un abonnement. Pour plus d'informations, consultez nos Conditions générales et notre Politique de confidentialité.",
