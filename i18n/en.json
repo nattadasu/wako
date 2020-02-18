@@ -199,6 +199,8 @@
     },
     "addons": {
       "title": "Add-ons",
+      "premium": "This feature is only available for premium users.",
+      "become-premium": "Become premium",
       "list-installed": {
         "header": "Installed Add-ons"
       },
