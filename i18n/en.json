@@ -199,8 +199,8 @@
     },
     "addons": {
       "title": "Add-ons",
-      "premium": "This feature is only available for premium users.",
-      "become-premium": "Become premium",
+      "need-contribute": "This feature is only available for users who have contributed.",
+      "need-contribute-button": "Contribute to wako",
       "list-installed": {
         "header": "Installed Add-ons"
       },
@@ -250,7 +250,7 @@
       "iosTextSubscriptionGeneral": "Subscriptions will automatically renew unless canceled at least 24-hours before the end of the current period. You can cancel anytime with your iTunes account settings. Any unused portion of a free trial will be forfeited if you purchase a subscription. For more information, see our Terms & Conditions and Privacy Policy.",
       "subscriptionHeader": "Auto Renewable subscriptions",
       "consumableHeader": "Lifetime Contribution",
-      "otherSubscriptionHeader": "Other subscriptions",
+      "otherSubscriptionHeader": "Other Contributions",
       "manualSubscription": "Manual Contribution",
       "ads24hRemoval": "Get rid of full screen ads for the next 24h by watching 2 rewards ads",
       "ads6hRemoval": "Get rid of full screen ads for the next 6h by watching 1 reward ads",

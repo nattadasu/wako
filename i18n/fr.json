@@ -41,7 +41,11 @@
       "hi": "Salut",
       "upNextToWatch": "À Regarder",
       "retry": "Réessayer",
-      "upToDate": "Rien à regarder, t'es à jour :)"
+      "upToDate": "Rien à regarder, t'es à jour :)",
+      "segment": {
+        "upNext": "À Regarder",
+        "resume": "À Continuer"
+      }
     },
     "login": {
       "message": "Connectez-vous ou Inscrivez-vous avec Trakt pour visionner vos films/séries TV"
@@ -146,6 +150,7 @@
         },
         "application": {
           "header": "Application",
+          "darkMode": "Dark Mode",
           "lang": "Langue",
           "review": "Noter l'application",
           "share": "Partager l'application",
@@ -194,6 +199,8 @@
     },
     "addons": {
       "title": "Add-ons",
+      "need-contribute": "Cette fonction n'est disponible que pour les utilisateurs qui ont contribué. ",
+      "need-contribute-button": "Contribuer à wako",
       "list-installed": {
         "header": "Installed Add-ons"
       },
@@ -237,11 +244,17 @@
       "explain": "Si vous aimez vraiment le wako, vous pouvez y contribuer en choisissant un produit ci-dessous. Cela permettra de supprimer les publicités. La contribution est liée à votre compte trakt.",
       "explainTierText1": "Le produit \"Tier\" est une contribution à vie",
       "explainTierText2": "Il existe différents produits Tier, ils ont tous le même effet, seul le prix change, il vous permet de choisir ce que vous pensez que wako vaut",
+      "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
       "iosTextSubscriptionMonthlyByProduct": "Un achat {{ productPrice }}/mois sera appliqué à votre compte iTunes dès confirmation.",
       "iosTextSubscriptionYearlyByProduct": "Un achat {{ productPrice }}/an sera appliqué à votre compte iTunes dès confirmation.",
       "iosTextSubscriptionGeneral": "Les abonnements se renouvelleront automatiquement à moins qu'ils ne soient annulés dans les 24 heures précédant la fin de la période en cours. Vous pouvez annuler à tout moment avec les paramètres de votre compte iTunes. Toute portion inutilisée d'un essai gratuit sera perdue si vous achetez un abonnement. Pour plus d'informations, consultez nos Conditions générales et notre Politique de confidentialité.",
       "subscriptionHeader": "Abonnements Auto Renouvelable",
-      "consumableHeader": "Contribution à vie"
+      "consumableHeader": "Contribution à vie",
+      "otherSubscriptionHeader": "Autres Contributions",
+      "manualSubscription": "Contribution manuelle",
+      "ads24hRemoval": "Débarrassez-vous des publicités plein écran pour les prochaines 24h en regardant 2 publicités",
+      "ads6hRemoval": "Débarrassez-vous des publicités plein écran pendant les 6 prochaines heures en regardant 1 publicité",
+      "otherContribution": "Other"
     },
     "app-outdated": {
       "text": "Votre application n'est plus à jour. Veuillez la mettre à jour pour continuer à l'utiliser"
@@ -360,6 +373,12 @@
     "kodi": {
       "hostUnreachable": "Aïe, votre hôte kodi {{hostName}} est injoignable",
       "noHost": "Aucun hôte définit pour kodi"
+    },
+    "ads": {
+      "block": "Aïe, on dirait que vous avez un bloqueur de publicité. Les annonces aident wako à rester gratuit, si vous ne voulez pas d'annonces vous pouvez contribuer à wako (wako > paramètres > contribuer)"
+    },
+    "trailer": {
+      "noTrailer": "No trailer found"
     }
   },
   "alerts": {
