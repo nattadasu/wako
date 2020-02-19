@@ -254,7 +254,7 @@
       "manualSubscription": "Manual Contribution",
       "ads24hRemoval": "Get rid of full screen ads for the next 24h by watching 2 rewards ads",
       "ads6hRemoval": "Get rid of full screen ads for the next 6h by watching 1 reward ads",
-      "otherContribution": "One time contribution"
+      "lifetime": "Lifetime contribution"
     },
     "app-outdated": {
       "text": "Your app is outdated, you have to update it to continue"

@@ -254,7 +254,7 @@
       "manualSubscription": "Contribution manuelle",
       "ads24hRemoval": "Débarrassez-vous des publicités plein écran pour les prochaines 24h en regardant 2 publicités",
       "ads6hRemoval": "Débarrassez-vous des publicités plein écran pendant les 6 prochaines heures en regardant 1 publicité",
-      "otherContribution": "Other"
+      "lifetime": "Contribution à vie"
     },
     "app-outdated": {
       "text": "Votre application n'est plus à jour. Veuillez la mettre à jour pour continuer à l'utiliser"
