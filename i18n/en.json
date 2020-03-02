@@ -82,7 +82,7 @@
           "recommendations": "Recommendations",
           "watch-list": "Watch list",
           "history": "History",
-          "up-next": "Up Next To Watch"
+          "progress": "Progress"
         },
         "pop-over": {
           "explore": "Explore",
@@ -397,7 +397,9 @@
       "enterManifestUrl": "Enter the manifest URL"
     },
     "show": {
-      "remove": "Remove this show?"
+      "remove": "Remove this show?",
+      "hidden-add": "Hide this show?",
+      "hidden-remove": "Unhide this show?"
     },
     "kodi": {
       "openUrl": "Open URL"

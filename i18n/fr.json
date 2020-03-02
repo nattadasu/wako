@@ -82,7 +82,7 @@
           "recommendations": "Recommendations",
           "watch-list": "Watch List",
           "history": "Historique",
-          "up-next": "À Regarder"
+          "progress": "En Cours"
         },
         "pop-over": {
           "explore": "Explorer",
@@ -397,7 +397,9 @@
       "enterManifestUrl": "Entrer l'url du manifest"
     },
     "show": {
-      "remove": "Supprimer la série ?"
+      "remove": "Supprimer la série ?",
+      "hidden-add": "Masquer la sére ?",
+      "hidden-remove": "Afficher la série ?"
     },
     "kodi": {
       "openUrl": "Ouvrir l'URL"
