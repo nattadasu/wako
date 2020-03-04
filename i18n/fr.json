@@ -199,8 +199,9 @@
     },
     "addons": {
       "title": "Add-ons",
-      "need-contribute": "Cette fonction n'est disponible que pour les utilisateurs qui ont contribué. ",
+      "need-contribute": "Votre période d'essai est terminée, merci de contribuer pour utiliser cette fonctionnalité",
       "need-contribute-button": "Contribuer à wako",
+      "trial-expires-soon": "Votre période d'essai expirera dans {{days}} jour(s), vous ne pourrez plus utiliser cette fonctionnalité à moins que vous ne contribuiez",
       "list-installed": {
         "header": "Installed Add-ons"
       },

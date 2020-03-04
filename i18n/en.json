@@ -199,8 +199,9 @@
     },
     "addons": {
       "title": "Add-ons",
-      "need-contribute": "This feature is only available for users who have contributed.",
+      "need-contribute": "Your trial period has ended, please contribute to use this feature",
       "need-contribute-button": "Contribute to wako",
+      "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you contribute",
       "list-installed": {
         "header": "Installed Add-ons"
       },
