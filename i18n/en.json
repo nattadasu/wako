@@ -200,8 +200,6 @@
     "addons": {
       "title": "Add-ons",
       "need-contribute": "Your trial period has ended, please contribute to use this feature",
-      "need-contribute-button": "Contribute to wako",
-      "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you contribute",
       "list-installed": {
         "header": "Installed Add-ons"
       },
@@ -321,6 +319,11 @@
     "install-addons": {
       "text1": "Do you know you can install add-ons inside wako?",
       "text2": "By installing add-ons you will add new feature to wako that fit your needs"
+    },
+    "contribution": {
+      "remove-ads": "Contribute to wako to remove all ads",
+      "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you contribute",
+      "need-contribute-button": "Contribute to wako"
     }
   },
   "toasts": {
