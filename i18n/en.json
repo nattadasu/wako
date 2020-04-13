@@ -375,7 +375,7 @@
       "upToDate": "Add-ons are up to date"
     },
     "kodi": {
-      "hostUnreachable": "Ouch, your kodi host {{hostName}} is unreachable",
+      "hostUnreachable": "Your kodi host {{hostName}} is unreachable, please check your connection",
       "noHost": "No host set for kodi"
     },
     "ads": {
