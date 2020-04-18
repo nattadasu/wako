@@ -44,7 +44,8 @@
       "upToDate": "Nothing to watch, you're up to date :)",
       "segment": {
         "upNext": "Up Next",
-        "resume": "Resume"
+        "resume": "Resume",
+        "calendar": "Calendar"
       }
     },
     "login": {

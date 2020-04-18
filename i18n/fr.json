@@ -44,7 +44,8 @@
       "upToDate": "Rien à regarder, t'es à jour :)",
       "segment": {
         "upNext": "À Regarder",
-        "resume": "À Continuer"
+        "resume": "À Continuer",
+        "calendar": "Calendrier"
       }
     },
     "login": {
