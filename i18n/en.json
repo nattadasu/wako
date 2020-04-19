@@ -236,6 +236,15 @@
     },
     "addon-detail": {
       "title": "Add-on Detail"
+    },
+    "movie-discover": {
+      "title": "Discover Movies",
+      "pick-genre": "What kind of movie do you want?",
+      "searching": "Ongoing research, it may take some time",
+      "continue": "Continue",
+      "next-movie": "Next",
+      "no-movie": "No more movie to discover",
+      "restart": "Restart"
     }
   },
   "modals": {

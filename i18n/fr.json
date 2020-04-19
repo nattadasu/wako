@@ -236,6 +236,15 @@
     },
     "addon-detail": {
       "title": "Add-on Detail"
+    },
+    "movie-discover": {
+      "title": "Décrouvrir des films",
+      "pick-genre": "Quel genre de films voulez-vous ?",
+      "searching": "Recherche en cours, ça peut prendre du temps",
+      "continue": "Continuer",
+      "next-movie": "Suivant",
+      "no-movie": "Plus de film à découvrir",
+      "restart": "Recommencer"
     }
   },
   "modals": {
@@ -321,7 +330,7 @@
       "text1": "Savez-vous que vous pouvez installer des extensions à l'intérieur de wako ?",
       "text2": "En installant des add-ons, vous ajouterez à wako de nouvelles fonctionnalités qui répondront à vos besoins."
     },
-    "contribution":{
+    "contribution": {
       "remove-ads": "Contribuez à wako pour supprimer toutes les pubs",
       "trial-expires-soon": "Votre période d'essai expirera dans {{days}} jour(s), vous ne pourrez plus utiliser cette fonctionnalité à moins que vous ne contribuiez",
       "need-contribute-button": "Contribuer à wako"
