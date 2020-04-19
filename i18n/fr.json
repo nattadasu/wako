@@ -244,7 +244,8 @@
       "continue": "Continuer",
       "next-movie": "Suivant",
       "no-movie": "Plus de film à découvrir",
-      "restart": "Recommencer"
+      "restart": "Recommencer",
+      "min-rating": "Note minimum"
     }
   },
   "modals": {
