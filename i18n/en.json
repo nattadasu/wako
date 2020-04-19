@@ -239,13 +239,14 @@
     },
     "movie-discover": {
       "title": "Discover Movies",
-      "pick-genre": "What kind of movie do you want?",
+      "select-filters": "All filters are optional",
       "searching": "Ongoing research, it may take some time",
       "continue": "Continue",
       "next-movie": "Next",
       "no-movie": "No more movie to discover",
       "restart": "Restart",
-      "min-rating": "Minimum rating"
+      "min-rating": "Minimum rating",
+      "released-year": "Released from (year)"
     }
   },
   "modals": {
