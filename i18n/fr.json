@@ -395,7 +395,9 @@
     },
     "trailer": {
       "noTrailer": "No trailer found"
-    }
+    },
+    "premium-only": "This is feature is only for premium users",
+    "no-settings-saved": "Unfortunately you don't have any settings saved online"
   },
   "alerts": {
     "okButton": "Ok",
@@ -419,6 +421,10 @@
     },
     "kodi": {
       "openUrl": "Ouvrir l'URL"
+    },
+    "restore-settings": {
+      "restore-header": "Restaurer vos paramètres",
+      "restore-date": "Voulez vous restaurer vos paramètres sauvegardés {{date}} ?"
     }
   },
   "notifications": {

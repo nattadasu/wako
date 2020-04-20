@@ -152,6 +152,7 @@
         "application": {
           "header": "Application",
           "darkMode": "Dark Mode",
+          "restore-settings": "Restore settings from backup",
           "lang": "Language",
           "review": "Review This App",
           "share": "Share This App",
@@ -395,7 +396,9 @@
     },
     "trailer": {
       "noTrailer": "No trailer found"
-    }
+    },
+    "premium-only": "This is feature is only for premium users",
+    "no-settings-saved": "Unfortunately you don't have any settings saved online"
   },
   "alerts": {
     "okButton": "Ok",
@@ -419,6 +422,10 @@
     },
     "kodi": {
       "openUrl": "Open URL"
+    },
+    "restore-settings": {
+      "restore-header": "Restore settings",
+      "restore-date": "Do you want to restore your settings saved on {{date}}?"
     }
   },
   "notifications": {
