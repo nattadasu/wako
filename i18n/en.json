@@ -398,7 +398,7 @@
       "noTrailer": "No trailer found"
     },
     "premium-only": "This is feature is only for premium users",
-    "no-settings-saved": "Unfortunately you don't have any settings saved online"
+    "no-settings-saved": "Unfortunately, you do not have any settings saved online yet."
   },
   "alerts": {
     "okButton": "Ok",
