@@ -39,11 +39,11 @@
     },
     "home": {
       "hi": "Salut",
-      "upNextToWatch": "À Regarder",
+      "upNextToWatch": "À Voir",
       "retry": "Réessayer",
       "upToDate": "Rien à regarder, t'es à jour :)",
       "segment": {
-        "upNext": "À Regarder",
+        "upNext": "À Voir",
         "resume": "À Continuer",
         "calendar": "Calendrier"
       }
