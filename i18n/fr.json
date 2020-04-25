@@ -152,6 +152,8 @@
         "application": {
           "header": "Application",
           "darkMode": "Dark Mode",
+          "enable-restore-settings": "Activer la sauvegarde des paramètres",
+          "restore-settings": "Restaurer les paramètres",
           "lang": "Langue",
           "review": "Noter l'application",
           "share": "Partager l'application",

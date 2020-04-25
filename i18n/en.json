@@ -152,6 +152,7 @@
         "application": {
           "header": "Application",
           "darkMode": "Dark Mode",
+          "enable-restore-settings": "Enable settings backup",
           "restore-settings": "Restore settings from backup",
           "lang": "Language",
           "review": "Review This App",
