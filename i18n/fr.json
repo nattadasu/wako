@@ -254,9 +254,10 @@
   "modals": {
     "app-contribution": {
       "title": "Contribution",
-      "explain": "Si vous aimez vraiment le wako, vous pouvez y contribuer en choisissant un produit ci-dessous. Cela permettra de supprimer les publicités. La contribution est liée à votre compte trakt.",
-      "explainTierText1": "Le produit \"Tier\" est une contribution à vie",
-      "explainTierText2": "Il existe différents produits Tier, ils ont tous le même effet, seul le prix change, il vous permet de choisir ce que vous pensez que wako vaut",
+      "premium-user": "Félicitations, vous êtes maintenant un utilisateur Premium.",
+      "explain": "Si vous aimez vraiment wako, vous pouvez y contribuer en choisissant un produit ci-dessous. Cela permettra de supprimer les publicités.<br>La contribution est liée à votre compte trakt.",
+      "explainTierText1": "<br>Le produit \"Tier\" est une contribution à vie",
+      "explainTierText2": "<br>Il existe différents produits Tier, ils ont tous le même effet, seul le prix change, il vous permet de choisir ce que vous pensez que wako vaut",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
       "iosTextSubscriptionMonthlyByProduct": "Un achat {{ productPrice }}/mois sera appliqué à votre compte iTunes dès confirmation.",
       "iosTextSubscriptionYearlyByProduct": "Un achat {{ productPrice }}/an sera appliqué à votre compte iTunes dès confirmation.",

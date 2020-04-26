@@ -254,7 +254,8 @@
   "modals": {
     "app-contribution": {
       "title": "Contribution",
-      "explain": "If you really enjoy wako, you can contribute to it by choosing a product bellow. This will remove ads. The contribution is linked to your trakt's account.",
+      "premium-user": "Congratulations, you are now a Premium user.",
+      "explain": "If you really enjoy wako, you can contribute to it by choosing a product bellow. This will remove ads.<br>The contribution is linked to your trakt's account.",
       "explainTierText1": "\"Tier\" product is a lifetime contribution",
       "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
