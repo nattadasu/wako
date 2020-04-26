@@ -399,7 +399,8 @@
       "noTrailer": "No trailer found"
     },
     "premium-only": "Cette fonction est réservée aux utilisateurs Premium",
-    "no-settings-saved": "Malheureusement, vous n'avez pas encore de paramètres enregistrés en ligne"
+    "no-settings-saved": "Malheureusement, vous n'avez pas encore de paramètres enregistrés en ligne",
+    "contribution-added": "Merci pour votre contribution. Vous êtes maintenant un utilisateur Premium. wako va redémarrer"
   },
   "alerts": {
     "okButton": "Ok",

@@ -399,7 +399,8 @@
       "noTrailer": "No trailer found"
     },
     "premium-only": "This is feature is only for premium users",
-    "no-settings-saved": "Unfortunately, you do not have any settings saved online yet."
+    "no-settings-saved": "Unfortunately, you do not have any settings saved online yet.",
+    "contribution-added": "Thanks for your contribution. You are now a Premium user. wako is going to restart"
   },
   "alerts": {
     "okButton": "Ok",
