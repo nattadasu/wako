@@ -152,8 +152,6 @@
         "application": {
           "header": "Application",
           "darkMode": "Dark Mode",
-          "enable-restore-settings": "Activer la sauvegarde des paramètres",
-          "restore-settings": "Restaurer les paramètres",
           "lang": "Langue",
           "review": "Noter l'application",
           "share": "Partager l'application",
@@ -165,6 +163,12 @@
           "privacyPolicy": "Politique de confidentialité",
           "termsConditions": "Terms & Conditions ",
           "appVersion": "App Version"
+        },
+        "backup": {
+          "header": "Sauvegarde",
+          "enable-restore-settings": "Activer la sauvegarde des paramètres",
+          "restore-settings": "Restaurer les paramètres",
+          "delete": "Supprimer la sauvegarde en ligne"
         }
       }
     },
@@ -401,7 +405,8 @@
     },
     "premium-only": "Cette fonction est réservée aux utilisateurs Premium",
     "no-settings-saved": "Malheureusement, vous n'avez pas encore de paramètres enregistrés en ligne",
-    "contribution-added": "Merci pour votre contribution. Vous êtes maintenant un utilisateur Premium. wako va redémarrer"
+    "contribution-added": "Merci pour votre contribution. Vous êtes maintenant un utilisateur Premium. wako va redémarrer",
+    "backup-deleted": "Votre sauvegarde a été supprimée"
   },
   "alerts": {
     "okButton": "Ok",
@@ -429,6 +434,10 @@
     "restore-settings": {
       "restore-header": "Restaurer vos paramètres",
       "restore-date": "Voulez vous restaurer vos paramètres sauvegardés {{date}} ?"
+    },
+    "delete-backup": {
+      "header": "Supprimer la sauvegarde",
+      "restore-date": "Voulez vous supprimer la sauvegarde du {{date}}?"
     }
   },
   "notifications": {

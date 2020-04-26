@@ -152,8 +152,6 @@
         "application": {
           "header": "Application",
           "darkMode": "Dark Mode",
-          "enable-restore-settings": "Enable settings backup",
-          "restore-settings": "Restore settings from backup",
           "lang": "Language",
           "review": "Review This App",
           "share": "Share This App",
@@ -165,6 +163,12 @@
           "privacyPolicy": "Privacy Policy",
           "termsConditions": "Terms & Conditions ",
           "appVersion": "App Version"
+        },
+        "backup": {
+          "header": "Backup",
+          "enable-restore-settings": "Enable settings backup",
+          "restore-settings": "Restore settings from backup",
+          "delete": "Delete online backup"
         }
       }
     },
@@ -401,7 +405,8 @@
     },
     "premium-only": "This is feature is only for premium users",
     "no-settings-saved": "Unfortunately, you do not have any settings saved online yet.",
-    "contribution-added": "Thanks for your contribution. You are now a Premium user. wako is going to restart"
+    "contribution-added": "Thanks for your contribution. You are now a Premium user. wako is going to restart",
+    "backup-deleted": "Your backup has been deleted"
   },
   "alerts": {
     "okButton": "Ok",
@@ -429,6 +434,10 @@
     "restore-settings": {
       "restore-header": "Restore settings",
       "restore-date": "Do you want to restore your settings saved on {{date}}?"
+    },
+    "delete-backup": {
+      "header": "Delete backup",
+      "restore-date": "Do you want to delete your backup saved on {{date}}?"
     }
   },
   "notifications": {
