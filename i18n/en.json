@@ -343,6 +343,13 @@
       "remove-ads": "Contribute to wako to remove all ads",
       "trial-expires-soon": "Your trial period will expire in {{days}} day(s), you won't be able to use this feature anymore unless you contribute",
       "need-contribute-button": "Contribute to wako"
+    },
+    "calendar-pipe": {
+      "yesterday": "Yesterday",
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "days-ago": "{{days}} days ago",
+      "in-days": "in {{days}} days"
     }
   },
   "toasts": {
