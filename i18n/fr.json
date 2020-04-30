@@ -361,7 +361,7 @@
       "addedToCollection": "{{movieTitle}} a été ajouté de votre Collection",
       "removedFromCollection": "{{movieTitle}} a été retiré de votre Collection",
       "addedToUserList": "{{movieTitle}} a été ajouté à la liste",
-      "removedFromUserList": "{movieTitle}} a été retiré de la liste",
+      "removedFromUserList": "{{movieTitle}} a été retiré de la liste",
       "noRandomMovieFound": "Aucun film trouvé pour les genres : {{genreList}}",
       "notFoundOnTrakt": "Film non trouvé sur trakt"
     },
