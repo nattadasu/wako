@@ -405,7 +405,7 @@
       "noHost": "Aucun hôte définit pour kodi"
     },
     "ads": {
-      "block": "Aïe, on dirait que vous avez un bloqueur de publicité. Les annonces aident wako à rester gratuit, si vous ne voulez pas d'annonces vous pouvez contribuer à wako (wako > paramètres > contribuer)"
+      "block": "Aïe, on dirait que vous avez un bloqueur de publicité. Certaines parties de wako ne sont accessibles qu'aux utilisateurs premium (wako > paramètres > contribuer) ou en regardant une annonce"
     },
     "trailer": {
       "noTrailer": "No trailer found"
