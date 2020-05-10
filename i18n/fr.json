@@ -83,7 +83,8 @@
           "recommendations": "Recommendations",
           "watch-list": "Watch List",
           "history": "Historique",
-          "progress": "En Cours"
+          "progress": "En Cours",
+          "completed": "Terminé"
         },
         "pop-over": {
           "explore": "Explorer",
@@ -137,17 +138,27 @@
           "header": "Notifications",
           "notificationNotGranted": "Les notifications pour wako sont actuellement désactivées. Si vous souhaitez recevoir des notifications, veuillez les activer dans les Paramètres de votre téléphone.",
           "itemEnableTvShows": "Activer les notifications des séries TV",
-          "itemOnlyNewEpisodeOnUpToDateShows": "Etre averti uniquement pour mes prochains épisodes à regarder"
+          "itemOnlyNewEpisodeOnUpToDateShows": "Etre averti uniquement pour les nouveaux épisodes qui sortent si je suis à jour sur la série"
         },
         "trakt": {
           "totalWatchedMovies": "Nombre de films regardés",
           "totalWatchedEpisodes": "Nombre d'épisodes regardés",
+          "totalWatchedEpisodesAnime": "Nombre d'épisodes (anime) regardés",
           "apiStatus": "Statut de l'API Trakt",
           "logout": "Déconnexion",
           "signIn": "Connectez-vous ou Inscrivez-vous à Trakt",
           "markMovieAsWatchedAuto": "Marquer les films comme vu automatiquement",
           "markEpisodeAsWatchedAuto": "Marquer les épisodes comme vu automatiquement",
           "markAsWatchedAutoProgress": "Pourcentage à voir pour marquer la vidéo comme vu"
+        },
+        "simkl": {
+          "signIn": "Connectez-vous ou Inscrivez-vous à Simkl"
+        },
+        "tracker": {
+          "header": "Traquer",
+          "movie": "Traquer les films sur",
+          "show": "Traquer les séries sur",
+          "not-recommended-warning": "Attention utiliser Trakt + SIMKL sur une même catégorie n'est pas recommandé et peu engendrer des bugs"
         },
         "application": {
           "header": "Application",
@@ -259,7 +270,7 @@
     "app-contribution": {
       "title": "Contribution",
       "premium-user": "Félicitations, vous êtes maintenant un utilisateur Premium.",
-      "explain": "Si vous aimez vraiment wako, vous pouvez y contribuer en choisissant un produit ci-dessous. Cela permettra de supprimer les publicités.<br>La contribution est liée à votre compte trakt.",
+      "explain1": "If you really enjoy wako, you can become a Premium user by choosing a product bellow. This will remove ads.<br>All devices logged to the same user will be affected",
       "explainTierText1": "<br>Le produit \"Tier\" est une contribution à vie",
       "explainTierText2": "<br>Il existe différents produits Tier, ils ont tous le même effet, seul le prix change, il vous permet de choisir ce que vous pensez que wako vaut",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
@@ -307,6 +318,10 @@
     "install-addons": {
       "title": "Vous n'avez pas d'add-ons installé",
       "button": "Ajouter des add-ons"
+    },
+    "signIn": {
+      "explainOld": "Vous pouvez parcourir les informations sans compte Trakt, mais vous en aurez besoin pour synchroniser et mettre à jour votre historique, votre watch list, etc. Utiliser un compte Trakt signifie que tout votre historique est disponible sur tous vos appareils ayant accès à Trakt, y compris sur Trakt.tv sur le web.",
+      "explain": "Vous pouvez parcourir les informations sans compte Trakt/SIMKL, mais vous en aurez besoin pour synchroniser et mettre à jour votre historique, votre watch list, etc. Utiliser un compte Trakt/SIMKL signifie que tout votre historique est disponible sur tous vos appareils ayant accès à Trakt/SIMKL, y compris sur Trakt.tv/SIMKL.com sur le web."
     }
   },
   "pop-over": {
@@ -328,7 +343,9 @@
     "filtersApplied": "Vous avez appliqué des filtres",
     "cancel": "Annuler",
     "sign-in": {
-      "button": "Connectez-vous avec Trakt"
+      "or": "ou",
+      "trakt-button": "Connectez-vous avec Trakt",
+      "simkl-button": "Connectez-vous avec SIMKL"
     },
     "misc": {
       "aired": "Diffusé le",
@@ -354,33 +371,33 @@
   },
   "toasts": {
     "movie": {
-      "markAsWatched": "{{movieTitle}} a été marqué comme vu",
-      "markAsUnwatched": "{{movieTitle}} a été marqué comme non vu",
-      "addedToWatchlist": "{{movieTitle}} a été ajouté à votre Watch List",
-      "removedFromWatchlist": "{{movieTitle}} a été retiré de votre Watch List",
-      "addedToCollection": "{{movieTitle}} a été ajouté de votre Collection",
-      "removedFromCollection": "{{movieTitle}} a été retiré de votre Collection",
-      "addedToUserList": "{{movieTitle}} a été ajouté à la liste",
-      "removedFromUserList": "{{movieTitle}} a été retiré de la liste",
+      "markAsWatched": "{{movieTitle}} a été marqué comme vu dans {{trackers}}",
+      "markAsUnwatched": "{{movieTitle}} a été marqué comme non vu dans {{trackers}}",
+      "addedToWatchlist": "{{movieTitle}} a été ajouté à votre Watch List dans {{trackers}}",
+      "removedFromWatchlist": "{{movieTitle}} a été retiré de votre Watch List dans {{trackers}}",
+      "addedToCollection": "{{movieTitle}} a été ajouté de votre Collection dans {{trackers}}",
+      "removedFromCollection": "{{movieTitle}} a été retiré de votre Collection dans {{trackers}}",
+      "addedToUserList": "{{movieTitle}} a été ajouté à la list dans {{trackers}}e",
+      "removedFromUserList": "{{movieTitle}} a été retiré de la liste dans {{trackers}}",
       "noRandomMovieFound": "Aucun film trouvé pour les genres : {{genreList}}",
       "notFoundOnTrakt": "Film non trouvé sur trakt"
     },
     "show": {
-      "addedToWatchlist": "{{showTitle}} a été ajouté à votre Watch Listt",
-      "removedFromWatchlist": "{{showTitle}} a été retiré de votre Watch List",
-      "addedToCollection": "{{showTitle}} a été ajouté de votre  Collection",
-      "removedFromCollection": "{{showTitle}} a été retiré de votre  Collection",
-      "addedToUserList": "{{showTitle}} a été ajouté à la liste",
-      "removedFromUserList": "{{showTitle}} a été retiré de la liste",
+      "addedToWatchlist": "{{showTitle}} a été ajouté à votre Watch List dans {{trackers}}",
+      "removedFromWatchlist": "{{showTitle}} a été retiré de votre Watch List dans {{trackers}}",
+      "addedToCollection": "{{showTitle}} a été ajouté de votre Collection dans {{trackers}}",
+      "removedFromCollection": "{{showTitle}} a été retiré de votre Collection dans {{trackers}}",
+      "addedToUserList": "{{showTitle}} a été ajouté à la liste dans {{trackers}}",
+      "removedFromUserList": "{{showTitle}} a été retiré de la liste dans {{trackers}}",
       "notFoundOnTrakt": "Série non trouvée sur trakt"
     },
     "season": {
-      "markAsWatched": "{{showTitle}} saison {{seasonNumber}} a été marqué comme vue",
-      "markAsUnwatched": "{{showTitle}} saison {{seasonNumber}} a été marqué comme non vue"
+      "markAsWatched": "{{showTitle}} saison {{seasonNumber}} a été marquée comme vue dans {{trackers}}",
+      "markAsUnwatched": "{{showTitle}} saison {{seasonNumber}} a été marquée comme non vue dans {{trackers}}"
     },
     "episode": {
-      "markAsWatched": "{{showTitle}} {{episodeCode}} a été marqué comme vu",
-      "markAsUnwatched": "{{showTitle}} {{episodeCode}} a été marqué comme non vu"
+      "markAsWatched": "{{showTitle}} {{episodeCode}} a été marqué comme vu dans {{trackers}}",
+      "markAsUnwatched": "{{showTitle}} {{episodeCode}} a été marqué comme non vu dans {{trackers}}"
     },
     "kodi-remote-control": {
       "warningWebsocket": "Attention - vous n'êtes pas connecté à kodi via webocket. Vous devez activer cette option dans Kodi :\nAllow remote control from applications on others systems\n\nPlus d'information sur https://wako.app/kodi-remote-control"

@@ -83,7 +83,8 @@
           "recommendations": "Recommendations",
           "watch-list": "Watch list",
           "history": "History",
-          "progress": "Progress"
+          "progress": "Progress",
+          "completed": "Completed"
         },
         "pop-over": {
           "explore": "Explore",
@@ -110,7 +111,9 @@
     "show": {
       "search-list": {
         "search": "Search a TV Show",
-        "myTvShows": "My TV Shows"
+        "search-anime": "Search an Anime",
+        "myTvShows": "My TV Shows",
+        "myAnime": "My Anime"
       },
       "show-detail": {
         "seasons": "Seasons"
@@ -137,17 +140,27 @@
           "header": "Notifications",
           "notificationNotGranted": "Notifications for wako are currently disabled. If you'd like to receive notifications please enable them in the Settings app",
           "itemEnableTvShows": "Enable TV Shows notifications",
-          "itemOnlyNewEpisodeOnUpToDateShows": "Be only notified for my next up to watch episodes"
+          "itemOnlyNewEpisodeOnUpToDateShows": "Be only notified for new aired episodes if I am up to date"
         },
         "trakt": {
           "totalWatchedMovies": "Total movies watched",
           "totalWatchedEpisodes": "Total episodes watched",
+          "totalWatchedEpisodesAnime": "Total episodes (anime) watched",
           "apiStatus": "Trakt API Status",
           "logout": "Logout",
           "signIn": "Sign in or Sign up with Trakt",
           "markMovieAsWatchedAuto": "Mark movies as watched automatically",
           "markEpisodeAsWatchedAuto": "Mark episodes as watched automatically",
           "markAsWatchedAutoProgress": "Percentage to watch to mark the video as watched"
+        },
+        "simkl": {
+          "signIn": "Sign in or Sign up with SIMKL"
+        },
+        "tracker": {
+          "header": "Tracker",
+          "movie": "Tracker for movies",
+          "show": "Tracker for TV shows",
+          "not-recommended-warning": "Please note that using Trakt + SIMKL on the same category is not recommended and may cause bugs."
         },
         "application": {
           "header": "Application",
@@ -178,7 +191,7 @@
       "cardContent": "Kodi hosts are now being searched on your network.<br />Select one from the list to add it or press the \"SKIP\" button to add it manually.",
       "detectedHosts": "Detected Hosts",
       "detectHostHelper": "Not host found yet (could take some seconds). Don't forget to start Kodi<br><em>The Automatic detection works by using Zeroconf. If it’s not detecting your Kodi, then try enabling Zeroconf in Kodi by going to <b>Settings > Services > General and enable \"Announce services to other systems\"</b></em>",
-      "troubleShooting": "If you have any isssue connecting wako to kodi, please read the documentation <b>here</b>"
+      "troubleShooting": "If you have any issue connecting wako to kodi, please read the documentation <b>here</b>"
     },
     "kodi-remote-list": {
       "title": "Kodi Hosts",
@@ -258,8 +271,8 @@
   "modals": {
     "app-contribution": {
       "title": "Contribution",
-      "premium-user": "Congratulations, you are now a Premium user.",
-      "explain": "If you really enjoy wako, you can contribute to it by choosing a product bellow. This will remove ads.<br>The contribution is linked to your trakt's account.",
+      "premium-user": "Congratulations, you are a Premium user.",
+      "explain1": "If you really enjoy wako, you can become a Premium user by choosing a product bellow. This will remove ads.<br>All devices logged to the same user will be affected",
       "explainTierText1": "\"Tier\" product is a lifetime contribution",
       "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
@@ -272,7 +285,8 @@
       "manualSubscription": "Manual Contribution",
       "ads24hRemoval": "Get rid of full screen ads for the next 24h by watching 2 rewards ads",
       "ads6hRemoval": "Get rid of full screen ads for the next 6h by watching 1 reward ads",
-      "lifetime": "Lifetime contribution"
+      "lifetime": "Lifetime contribution",
+      "username-header": "Your wako's user ID"
     },
     "app-outdated": {
       "text": "Your app is outdated, you have to update it to continue"
@@ -307,6 +321,10 @@
     "install-addons": {
       "title": "You don't have any add-ons installed",
       "button": "Let's install some"
+    },
+    "signIn": {
+      "explainOld": "You can browse information without a Trakt account, however you will need one to sync and update your watch history, watch list, etc. Using a Trakt account means that all your history is available on all your devices with Trakt access, including available on Trakt.tv on the web.",
+      "explain": "You can browse information without a Trakt/SIMKL account, however you will need one to sync and update your watch history, watch list, etc. Using a Trakt/SIMKL account means that all your history is available on all your devices with Trakt/SIMKL access, including available on Trakt.tv/SIMKL.com on the web."
     }
   },
   "pop-over": {
@@ -328,7 +346,9 @@
     "filtersApplied": "Filters have been applied",
     "cancel": "Cancel",
     "sign-in": {
-      "button": "Sign in or Sign up with Trakt"
+      "or": "or",
+      "trakt-button": "Sign in or Sign up with Trakt",
+      "simkl-button": "Sign in or Sign up with SIMKL"
     },
     "misc": {
       "aired": "Aired",
@@ -354,41 +374,43 @@
   },
   "toasts": {
     "movie": {
-      "markAsWatched": "Marked {{movieTitle}} as watched",
-      "markAsUnwatched": "Marked {{movieTitle}} as unwatched",
-      "addedToWatchlist": "Added {{movieTitle}} to your Watch List",
-      "removedFromWatchlist": "Removed {{movieTitle}} from your Watch List",
-      "addedToCollection": "Added {{movieTitle}} to your Collection",
-      "removedFromCollection": "Removed {{movieTitle}} from your Collection",
-      "addedToUserList": "Added {{movieTitle}} to your list",
-      "removedFromUserList": "Removed {{movieTitle}} from your list",
+      "markAsWatched": "Marked {{movieTitle}} as watched on {{trackers}}",
+      "markAsUnwatched": "Marked {{movieTitle}} as unwatched on {{trackers}}",
+      "addedToWatchlist": "Added {{movieTitle}} to your Watch List on {{trackers}}",
+      "removedFromWatchlist": "Removed {{movieTitle}} from your Watch List on {{trackers}}",
+      "addedToCollection": "Added {{movieTitle}} to your Collection on {{trackers}}",
+      "removedFromCollection": "Removed {{movieTitle}} from your Collection on {{trackers}}",
+      "addedToUserList": "Added {{movieTitle}} to your list on {{trackers}}",
+      "removedFromUserList": "Removed {{movieTitle}} from your list on {{trackers}}",
       "noRandomMovieFound": "No movie found for genres: {{genreList}}",
       "notFoundOnTrakt": "Movie not found on trakt"
     },
     "show": {
-      "addedToWatchlist": "Added {{showTitle}} to your Watch List",
-      "removedFromWatchlist": "Removed {{showTitle}} from your Watch List",
-      "addedToCollection": "Added {{showTitle}} to your Collection",
-      "removedFromCollection": "Removed {{showTitle}} from your Collection",
-      "addedToUserList": "Added {{showTitle}} to your list",
-      "removedFromUserList": "Removed {{showTitle}} from your list",
+      "addedToWatchlist": "Added {{showTitle}} to your Watch List on {{trackers}}",
+      "removedFromWatchlist": "Removed {{showTitle}} from your Watch List on {{trackers}}",
+      "addedToCollection": "Added {{showTitle}} to your Collection on {{trackers}}",
+      "removedFromCollection": "Removed {{showTitle}} from your Collection on {{trackers}}",
+      "addedToUserList": "Added {{showTitle}} to your list on {{trackers}}",
+      "removedFromUserList": "Removed {{showTitle}} from your list on {{trackers}}",
       "notFoundOnTrakt": "Show not found on trakt"
     },
     "season": {
-      "markAsWatched": "Marked {{showTitle}} season {{seasonNumber}} as watched",
-      "markAsUnwatched": "Marked {{showTitle}} season {{seasonNumber}} as unwatched"
+      "markAsWatched": "Marked {{showTitle}} season {{seasonNumber}} as watched on {{trackers}}",
+      "markAsUnwatched": "Marked {{showTitle}} season {{seasonNumber}} as unwatched on {{trackers}}"
     },
     "episode": {
-      "markAsWatched": "Marked {{showTitle}} {{episodeCode}} as watched",
-      "markAsUnwatched": "Marked {{showTitle}} {{episodeCode}} as unwatched"
+      "markAsWatched": "Marked {{showTitle}} {{episodeCode}} as watched on {{trackers}}",
+      "markAsUnwatched": "Marked {{showTitle}} {{episodeCode}} as unwatched on {{trackers}}"
     },
     "kodi-remote-control": {
-      "warningWebsocket": "Warning - you are not connected to kodi throught websocket service. You need to activate in Kodi this option:\nAllow remote control from applications on others systems\n\nGo to https://wako.app/kodi-remote-control for more information"
+      "warningWebsocket": "Warning - you are not connected to kodi through websocket service. You need to activate in Kodi this option:\nAllow remote control from applications on others systems\n\nGo to https://wako.app/kodi-remote-control for more information"
     },
     "app": {
       "traktApiIssue1": "Trakt API - Failed to load resource, please try again later (error code {{errorStatus}})",
       "traktApiServerOverloaded": "Trakt API - Server is overloaded. Please try again in 30s",
       "traktNotConnectedAnyMore": "Trakt API - You're not connected to trakt anymore, please reconnect",
+      "simklNotConnectedAnyMore": "Simkl API - You're not connected to trakt anymore, please reconnect",
+      "simklApiServerOverloaded": "Simkl API - Server is overloaded. Please try again in 30s",
       "newVersionAvailable": "A new version of wako is available on the store",
       "updateInstalled": "wako has been updated. Restart the app to enjoy update"
     },
@@ -433,7 +455,7 @@
     "show": {
       "remove": "Remove this show?",
       "hidden-add": "Hide this show?",
-      "hidden-remove": "Unhide this show?"
+      "hidden-remove": "Restore this show?"
     },
     "kodi": {
       "openUrl": "Open URL"
