@@ -406,7 +406,8 @@
     "app": {
       "traktApiIssue1": "API Trakt - Impossible de charger la ressource, veuillez réessayer plus tard. (code d'erreur {{errorStatus}})",
       "traktApiServerOverloaded": "API Trakt - Le serveur est surchargé. Veuillez réessayer dans 30 secondes.",
-      "traktNotConnectedAnyMore": "Trakt API - You're not connected to trakt anymore, please reconnect",
+      "traktNotConnectedAnyMore": "Trakt API - Vous n'êtes plus connecté à Trakt, veuillez vous reconnecter",
+      "simklNotConnectedAnyMore": "Simkl API - Vous n'êtes plus connecté à SIMKL, veuillez vous reconnecter",
       "newVersionAvailable": "Une nouvelle version de wako est disponible sur le store",
       "updateInstalled": "wako a été mis à jour. Relancez l'application pour en profiter"
     },
