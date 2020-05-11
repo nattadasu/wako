@@ -111,7 +111,9 @@
     "show": {
       "search-list": {
         "search": "Rechercher une série",
-        "myTvShows": "Mes Séries"
+        "search-anime": "Rechercher un Anime",
+        "myTvShows": "Mes Séries",
+        "myAnime": "Mes Anime"
       },
       "show-detail": {
         "seasons": "Saisons"
@@ -408,6 +410,7 @@
       "traktApiServerOverloaded": "API Trakt - Le serveur est surchargé. Veuillez réessayer dans 30 secondes.",
       "traktNotConnectedAnyMore": "Trakt API - Vous n'êtes plus connecté à Trakt, veuillez vous reconnecter",
       "simklNotConnectedAnyMore": "Simkl API - Vous n'êtes plus connecté à SIMKL, veuillez vous reconnecter",
+      "simklApiServerOverloaded": "Simkl API - Le serveur est surchargé. Veuillez réessayer dans 30 secondes.",
       "newVersionAvailable": "Une nouvelle version de wako est disponible sur le store",
       "updateInstalled": "wako a été mis à jour. Relancez l'application pour en profiter"
     },
