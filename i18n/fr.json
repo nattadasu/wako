@@ -270,7 +270,8 @@
     "app-contribution": {
       "title": "Contribution",
       "premium-user": "Félicitations, vous êtes maintenant un utilisateur Premium.",
-      "explain1": "If you really enjoy wako, you can become a Premium user by choosing a product bellow. This will remove ads.<br>All devices logged to the same user will be affected",
+      "explain1": "Si vous appréciez vraiment wako, vous pouvez devenir un utilisateur Premium en choisissant un produit ci-dessous. Cela supprimera les publicités.<br>Tous les appareils connectés au même utilisateur seront affectés",
+      "explainUsername": "Vous identifiant wako est généré en fonction de votre identifiant Trakt ou SIMKL. Votre contribution est liée à votre identifiant wako.<br>Si vous voulez passer de Trakt à SIMKL ou inversement pensez à rester connecter au service (Trakt ou SIMKL) auquel vous étiez connecté lors de votre contribution pour rester utilisateur Premium.",
       "explainTierText1": "<br>Le produit \"Tier\" est une contribution à vie",
       "explainTierText2": "<br>Il existe différents produits Tier, ils ont tous le même effet, seul le prix change, il vous permet de choisir ce que vous pensez que wako vaut",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
@@ -283,7 +284,8 @@
       "manualSubscription": "Contribution manuelle",
       "ads24hRemoval": "Débarrassez-vous des publicités plein écran pour les prochaines 24h en regardant 2 publicités",
       "ads6hRemoval": "Débarrassez-vous des publicités plein écran pendant les 6 prochaines heures en regardant 1 publicité",
-      "lifetime": "Contribution à vie"
+      "lifetime": "Contribution à vie",
+      "username-header": "Votre identifiant wako"
     },
     "app-outdated": {
       "text": "Votre application n'est plus à jour. Veuillez la mettre à jour pour continuer à l'utiliser"
@@ -320,7 +322,6 @@
       "button": "Ajouter des add-ons"
     },
     "signIn": {
-      "explainOld": "Vous pouvez parcourir les informations sans compte Trakt, mais vous en aurez besoin pour synchroniser et mettre à jour votre historique, votre watch list, etc. Utiliser un compte Trakt signifie que tout votre historique est disponible sur tous vos appareils ayant accès à Trakt, y compris sur Trakt.tv sur le web.",
       "explain": "Vous pouvez parcourir les informations sans compte Trakt/SIMKL, mais vous en aurez besoin pour synchroniser et mettre à jour votre historique, votre watch list, etc. Utiliser un compte Trakt/SIMKL signifie que tout votre historique est disponible sur tous vos appareils ayant accès à Trakt/SIMKL, y compris sur Trakt.tv/SIMKL.com sur le web."
     }
   },

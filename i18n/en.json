@@ -273,6 +273,7 @@
       "title": "Contribution",
       "premium-user": "Congratulations, you are a Premium user.",
       "explain1": "If you really enjoy wako, you can become a Premium user by choosing a product bellow. This will remove ads.<br>All devices logged to the same user will be affected",
+      "explainUsername": "Your wako ID is generated based on your Trakt or SIMKL ID. Your contribution is linked to your wako ID.<br>If you want to switch from Trakt to SIMKL or vice versa, remember to stay connected to the service (Trakt or SIMKL) you were connected to when you made your contribution to remain a Premium user.",
       "explainTierText1": "\"Tier\" product is a lifetime contribution",
       "explainTierText2": "There are different Tier products, they all have the same effect, only the price changes, it lets you choose what you think wako worth",
       "trialExpired": "Your trial period has expired. To continue using the app, please choose a product below",
@@ -286,7 +287,7 @@
       "ads24hRemoval": "Get rid of full screen ads for the next 24h by watching 2 rewards ads",
       "ads6hRemoval": "Get rid of full screen ads for the next 6h by watching 1 reward ads",
       "lifetime": "Lifetime contribution",
-      "username-header": "Your wako's user ID"
+      "username-header": "Your wako user ID"
     },
     "app-outdated": {
       "text": "Your app is outdated, you have to update it to continue"
@@ -323,7 +324,6 @@
       "button": "Let's install some"
     },
     "signIn": {
-      "explainOld": "You can browse information without a Trakt account, however you will need one to sync and update your watch history, watch list, etc. Using a Trakt account means that all your history is available on all your devices with Trakt access, including available on Trakt.tv on the web.",
       "explain": "You can browse information without a Trakt/SIMKL account, however you will need one to sync and update your watch history, watch list, etc. Using a Trakt/SIMKL account means that all your history is available on all your devices with Trakt/SIMKL access, including available on Trakt.tv/SIMKL.com on the web."
     }
   },
