@@ -67,6 +67,8 @@
           "certification": "Certification",
           "originalTitle": "Original Title",
           "originalLanguage": "Original Language",
+          "type": "Type",
+          "alternativeTitle": "Alternative Title",
           "rating": "Rating",
           "genres": "Genres"
         },

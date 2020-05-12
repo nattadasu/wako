@@ -67,6 +67,8 @@
           "certification": "Certification",
           "originalTitle": "Titre original",
           "originalLanguage": "Langue originale",
+          "type": "Type",
+          "alternativeTitle": "Titre Alternatif",
           "rating": "Note",
           "genres": "Genres"
         },
