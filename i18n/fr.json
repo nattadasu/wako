@@ -414,7 +414,8 @@
       "simklNotConnectedAnyMore": "Simkl API - Vous n'êtes plus connecté à SIMKL, veuillez vous reconnecter",
       "simklApiServerOverloaded": "Simkl API - Le serveur est surchargé. Veuillez réessayer dans 30 secondes.",
       "newVersionAvailable": "Une nouvelle version de wako est disponible sur le store",
-      "updateInstalled": "wako a été mis à jour. Relancez l'application pour en profiter"
+      "updateInstalled": "wako a été mis à jour. Relancez l'application pour en profiter",
+      "noConnection": "Vérifier votre connexion internet"
     },
     "settings": {
       "cacheCleared": "Cache Supprimé"
