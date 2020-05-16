@@ -68,6 +68,7 @@
           "originalTitle": "Titre original",
           "originalLanguage": "Langue originale",
           "type": "Type",
+          "episodes": "Episodes",
           "alternativeTitle": "Titre Alternatif",
           "rating": "Note",
           "genres": "Genres"
