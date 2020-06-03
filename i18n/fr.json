@@ -383,7 +383,7 @@
       "removedFromWatchlist": "{{movieTitle}} a été retiré de votre Watch List dans {{trackers}}",
       "addedToCollection": "{{movieTitle}} a été ajouté de votre Collection dans {{trackers}}",
       "removedFromCollection": "{{movieTitle}} a été retiré de votre Collection dans {{trackers}}",
-      "addedToUserList": "{{movieTitle}} a été ajouté à la list dans {{trackers}}e",
+      "addedToUserList": "{{movieTitle}} a été ajouté à la liste dans {{trackers}}",
       "removedFromUserList": "{{movieTitle}} a été retiré de la liste dans {{trackers}}",
       "noRandomMovieFound": "Aucun film trouvé pour les genres : {{genreList}}",
       "notFoundOnTrakt": "Film non trouvé sur trakt"
