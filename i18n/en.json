@@ -139,6 +139,11 @@
           "header": "Add-ons",
           "item": "Configure / Install Add-ons"
         },
+        "filer": {
+          "header": "File Explorer",
+          "item": "Configure",
+          "hideTab": "Hide File Explorer Tab"
+        },
         "notification": {
           "header": "Notifications",
           "notificationNotGranted": "Notifications for wako are currently disabled. If you'd like to receive notifications please enable them in the Settings app",
@@ -269,6 +274,22 @@
       "restart": "Restart",
       "min-rating": "Minimum rating",
       "released-year": "Released from (year)"
+    },
+    "filer": {
+      "title": "File Explorer",
+      "noCompatibleAddon": "You have no compatible Add-on installed yet"
+    },
+    "filer-settings": {
+      "title": "Configure File Explorer",
+      "video-type": {
+        "header": "Transcoded Files",
+        "preferTranscoded": "Prefer transcoded files",
+        "preferTranscodedFilesChromecast": "Prefer transcoded files for Chromecast only",
+        "explainTranscoded": "Some service create transcoded files of your videos in a format that is compatible with almost every player including Chromecast that supports only few video format. It's better to enable it for Chromecast. Be aware that transcoded files may won't include other subtitles/audio tracks that original files could include"
+      },
+      "actions": {
+        "header": "Sort/Enable Open Actions"
+      }
     }
   },
   "modals": {
@@ -484,6 +505,21 @@
     "addToCollection": "Add to your Collection",
     "removeFromCollection": "Remove from your Collection",
     "addToList": "Add to {{listName}}",
-    "removeFromList": "Remove from {{listName}}"
+    "removeFromList": "Remove from {{listName}}",
+    "file-action": {
+      "openTitle": "Open with",
+      "actions": {
+        "play-kodi": "Kodi",
+        "play-browser": "Browser",
+        "copy-url": "Copy URL",
+        "play-vlc": "VLC",
+        "download-vlc": "Download with VLC",
+        "share-url": "Share",
+        "open-with": "Other App",
+        "play-nplayer": "NPlayer",
+        "play-infuse": "Infuse",
+        "cast": "Cast"
+      }
+    }
   }
 }
