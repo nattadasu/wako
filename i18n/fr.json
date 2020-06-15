@@ -391,7 +391,8 @@
       "tomorrow": "Demain",
       "days-ago": "il y a {{days}} jours",
       "in-days": "dans {{days}} jours"
-    }
+    },
+    "onlyPremium": "Cette fonctionnalité est disponible seulement pour les utilisateurs Premium"
   },
   "toasts": {
     "movie": {
