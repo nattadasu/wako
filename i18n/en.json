@@ -42,6 +42,7 @@
       "upNextToWatch": "Up Next To Watch",
       "retry": "Retry",
       "upToDate": "Nothing to watch, you're up to date :)",
+      "nothingToResume": "Nothing to resume :)",
       "segment": {
         "upNext": "Up Next",
         "resume": "Resume",
@@ -493,6 +494,9 @@
     "delete-backup": {
       "header": "Delete backup",
       "restore-date": "Do you want to delete your backup saved on {{date}}?"
+    },
+    "clear-resume": {
+      "message": "Delete all items?"
     }
   },
   "notifications": {

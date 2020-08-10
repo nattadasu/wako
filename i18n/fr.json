@@ -42,6 +42,7 @@
       "upNextToWatch": "À Voir",
       "retry": "Réessayer",
       "upToDate": "Rien à regarder, t'es à jour :)",
+      "nothingToResume": "Rien à reprendre :)",
       "segment": {
         "upNext": "À Voir",
         "resume": "À Continuer",
@@ -490,6 +491,9 @@
     "delete-backup": {
       "header": "Supprimer la sauvegarde",
       "restore-date": "Voulez vous supprimer la sauvegarde du {{date}}?"
+    },
+    "clear-resume": {
+      "message": "Supprimer tous les éléments ?"
     }
   },
   "notifications": {
