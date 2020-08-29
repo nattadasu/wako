@@ -459,7 +459,8 @@
     "premium-only": "Cette fonction est réservée aux utilisateurs Premium",
     "no-settings-saved": "Malheureusement, vous n'avez pas encore de paramètres enregistrés en ligne",
     "contribution-added": "Merci pour votre contribution. Vous êtes maintenant un utilisateur Premium. wako va redémarrer",
-    "backup-deleted": "Votre sauvegarde a été supprimée"
+    "backup-deleted": "Votre sauvegarde a été supprimée",
+    "exit-app": "Appuyez à nouveau pour quitter"
   },
   "alerts": {
     "okButton": "Ok",
