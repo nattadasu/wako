@@ -309,7 +309,8 @@
       "ads24hRemoval": "Débarrassez-vous des publicités plein écran pour les prochaines 24h en regardant 2 publicités",
       "ads6hRemoval": "Débarrassez-vous des publicités plein écran pendant les 6 prochaines heures en regardant 1 publicité",
       "lifetime": "Contribution à vie",
-      "username-header": "Votre identifiant wako"
+      "username-header": "Votre identifiant wako",
+      "restore-button": "Restaurez vos achats"
     },
     "app-outdated": {
       "text": "Votre application n'est plus à jour. Veuillez la mettre à jour pour continuer à l'utiliser"
